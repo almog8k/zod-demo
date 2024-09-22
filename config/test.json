@@ -1,1 +1,3 @@
-{}
+{
+  "message": "{\"formErrors\":[],\"fieldErrors\":{\"phone\":[{\"message\":\"phone number must be an israeli phone number\",\"errorCode\":\"invalid_string\",\"path\":\"phone\"}],\"genderNative\":[{\"message\":\"Invalid enum value. Expected 'FEMALE' | 'MALE', received 'dEMALE'\",\"errorCode\":\"invalid_enum_value\",\"path\":\"genderNative\"}]}}"
+}

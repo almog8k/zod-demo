@@ -14,3 +14,8 @@ export const SERVICES: Record<string, symbol> = {
   METER: Symbol('Meter'),
 };
 /* eslint-enable @typescript-eslint/naming-convention */
+
+export enum Gender {
+  FEMALE = 'FEMALE',
+  MALE = 'MALE',
+}
